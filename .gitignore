@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+*.out
+*.obj
+*.exe
+*.a
+*.so
+*.dll
+
+# Debug
+*.dSYM/
+*.pdb
+
+# Editor/OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Misc
+main
