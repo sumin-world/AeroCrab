@@ -114,6 +114,19 @@ gdb ./debug
 4. Push to the branch (`git push origin feat/problem-name`)
 5. Open a Pull Request
 
+## 📖 스터디 강의
+[김정인 고급 C언어](https://www.inflearn.com/course/고급-c-언어)
+
+## 학습 계획
+### Week 1: 10월 6일(월) ~ 10월 11일(토)
+- 섹션 1. 과정소개(2개, 5분)
+- 섹션 2. Type(3개, 1시간 16분)
+
+## 💬 디스코드
+인프런 계정 로그인/로그아웃 꼭 남겨두기
+
+같이 생각해보면 좋은 것들도 디스코드로 자유롭게 공유합시당
+
 ---
 
 <div align="center">
